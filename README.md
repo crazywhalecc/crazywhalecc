@@ -6,6 +6,12 @@ PHP programmer, web security engineer.
 
 Playing nothing, doing nothing.
 
+And I won't exclude any other languages from contacting me, Chinese, English, etc. 😃
+
+I work in Shanghai and do something unrelated to the coding.
+
+Good at making wheels, writing some useful scripts and crashing my own computers.
+
 <!--
 **crazywhalecc/crazywhalecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
