@@ -2,7 +2,7 @@
 
 My name is Jerry Ma.
 
-PHP programmer, web security engineer.
+PHP programmer, web security engineer, CrazyBot(zhamao) Team maintainer.
 
 Playing nothing, doing nothing.
 
