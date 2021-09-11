@@ -2,15 +2,15 @@
 
 My name is Jerry Ma.
 
-PHP programmer, web security engineer, CrazyBot(zhamao) Team maintainer.
+PHP programmer, web security issue creator, CrazyBot(zhamao) Team maintainer.
 
-Playing nothing, doing nothing.
+Playing nothing but MC, doing nothing but sleeping.
 
 And I won't exclude any other languages from contacting me, Chinese, English, etc. 😃
 
 I work in Shanghai and do something unrelated to the coding.
 
-Good at making wheels, writing some useful scripts and crashing my own computers.
+Good at making wheels, writing some useless scripts and crashing my own computers.
 
 <!--
 **crazywhalecc/crazywhalecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
