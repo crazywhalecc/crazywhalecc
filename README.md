@@ -6,7 +6,7 @@ PHP programmer, web security issue creator, CrazyBot(zhamao) Team maintainer.
 
 Playing nothing but MC, doing nothing but sleeping.
 
-And I won't exclude any other languages from contacting me, Chinese, English, etc. 😃
+And I won't exclude any other languages from contacting me, 中文, English, etc. 😃
 
 I work in Shanghai and do something unrelated to the coding.
 
