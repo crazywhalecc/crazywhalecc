@@ -12,6 +12,8 @@ I work in Shanghai and do something unrelated to the coding.
 
 Good at making wheels, writing some useless scripts and crashing my own computers.
 
+我要变强！
+
 <!--
 **crazywhalecc/crazywhalecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
