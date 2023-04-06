@@ -4,7 +4,7 @@ My name is Jerry Ma.
 
 PHP programmer, web security issue creator, CrazyBot(zhamao) Team maintainer.
 
-Playing Command & Conquier RA2, Minecraft.
+Playing Command & Conquer Red Alert 2, Minecraft.
 
 And I won't exclude any other languages from contacting me, 中文, English, etc. 😃
 
