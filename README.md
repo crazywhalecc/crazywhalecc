@@ -8,7 +8,7 @@ Playing Command & Conquer Red Alert 2, Minecraft.
 
 And I won't exclude any other languages from contacting me, 中文, English, etc. 😃
 
-I work in Shanghai and do something unrelated to the coding.
+I do something unrelated to the coding.
 
 Good at making wheels, writing some useless scripts and crashing my own computers and servers.
 
