@@ -2,7 +2,7 @@
 
 My name is Jerry Ma.
 
-PHP and Vue.js programmer, CrazyBot(zhamao) Team maintainer, intrested in cyber security.
+PHP and Vue.js programmer, CrazyBot(zhamao) Team maintainer, cyber security engineer.
 
 😄 Playing Red Alert 2, Minecraft.
 
