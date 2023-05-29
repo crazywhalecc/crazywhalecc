@@ -21,6 +21,6 @@ If you can use Alipay, you can transfer to my personal organization account `炸
 
 ## 致谢列表 | Thanks
 
-这里空空如也。
+感谢每一个喜欢我项目的朋友。
 
-Empty now.
+Thank you to every friend who likes my project.
