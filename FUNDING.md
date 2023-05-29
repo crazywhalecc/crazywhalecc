@@ -11,7 +11,7 @@ If my project is helpful to you, you can sponsor me here and submit an issue or 
 If you are an international friend, please sponsor from the Buy Me a Coffee platform. 
 If you can use Alipay, you can transfer to my personal organization account `炸毛机器人` for donation.
 
-### Buy Me a Coffee
+### [Buy Me a Coffee](https://www.buymeacoffee.com/crazywhalecc)
 
 <img src="https://github.com/crazywhalecc/crazywhalecc/assets/20330940/b3bfbed7-2fee-404d-a365-56a12fb5a64d" width = "180" height = "180" alt="bmac"><br>
 
