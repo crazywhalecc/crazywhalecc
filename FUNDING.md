@@ -2,7 +2,7 @@
 
 如果我的项目对你有帮助，你可以从这里赞助我，并提交一个 Issue，让我把你的名字和金额加上去！
 
-If my project is helpful to you, you can sponsor me here and submit an Issue for me to add your name and amount!
+If my project is helpful to you, you can sponsor me here and submit an issue or comment with your name to add your name and amount!
 
 ## 赞助方式 | Sponsorship Methods
 
