@@ -24,3 +24,8 @@ If you can use Alipay, you can transfer to my personal organization account `炸
 感谢每一个喜欢我项目的朋友。
 
 Thank you to every friend who likes my project.
+
+| Sponsor | Amount |
+| ------- | ------ |
+| [sunxyw](https://github.com/sunxyw) | :coffee: x 1     | 
+| [Marcel Pociot](https://github.com/mpociot) | :coffee: x 10   |
