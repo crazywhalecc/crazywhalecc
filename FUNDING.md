@@ -31,3 +31,4 @@ Thank you to every friend who likes my project.
 | [Marcel Pociot](https://github.com/mpociot) | :coffee: x 10   |
 | Alipay - True | ￥ 16.66 |
 | Someone | :coffee: x 10 |
+| [kdkd](https://github.com/kdkd) | :coffee: x 5 |
