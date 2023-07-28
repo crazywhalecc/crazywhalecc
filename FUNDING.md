@@ -32,3 +32,4 @@ Thank you to every friend who likes my project.
 | Alipay - True | ￥ 16.66 |
 | Someone | :coffee: x 10 |
 | [kdkd](https://github.com/kdkd) | :coffee: x 5 |
+| 钟鹏 | ￥ 20 |
