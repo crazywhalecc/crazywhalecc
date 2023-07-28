@@ -6,7 +6,7 @@ PHP and Vue.js programmer, CrazyBot(zhamao) Team maintainer, cyber security engi
 
 😄 Playing Red Alert 2, Minecraft.
 
-💬 And I won't exclude any other languages from contacting me, 中文, English, etc.
+💬 And I won't exclude any other languages from contacting me, Chinese, English, etc.
 
 🔭 Writing open source projects is my hobby and my full-time job is another matter.
 
