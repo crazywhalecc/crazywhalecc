@@ -22,6 +22,8 @@ Be stronger!
 
 I want to change a new avatar.
 
+My name **crazywhalecc** is originally from my self-hosted Minecraft server ID, my Chinese name sounds more like "鲸鱼", English is "Whale". So my ID is crazywhale, my English name is Jerry (sounds like my first name). cc is ChallengeCollapsar, or just meaningless.
+
 <!--
 **crazywhalecc/crazywhalecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
