@@ -4,9 +4,9 @@ My name is Jerry Ma.
 
 PHP and Vue.js programmer, CrazyBot(zhamao) Team maintainer, cyber security engineer.
 
-😄 Playing Red Alert 2 (Team Player), Minecraft.
+🎮 Playing Red Alert 2 (Team Player), Minecraft.
 
-💬 And I won't exclude any other languages from contacting me, Chinese, English, etc.
+💬 I won't exclude any other languages from contacting me, Chinese, English, etc.
 
 🔭 Writing open source projects is my hobby and my full-time job is another matter.
 
