@@ -34,4 +34,4 @@ Thank you to every friend who likes my project.
 | [kdkd](https://github.com/kdkd) | :coffee: x 5 |
 | 钟鹏 | ￥ 20 |
 | Someone | :coffee: x 3 |
-| 姜先生 | :coffee: ¥ 88 |
+| 姜先生 | ¥ 88 |
