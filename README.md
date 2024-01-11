@@ -16,6 +16,12 @@ My name is Jerry Ma.
 
 [![](https://github-readme-stats.vercel.app/api?username=crazywhalecc&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/crazywhalecc)
 
+### Recent projects
+
+- [static-php-cli](https://github.com/crazywhalecc/static-php-cli): Build standalone PHP binary. Added windows support recently.
+- [zhamao-framework](https://github.com/zhamao-robot/zhamao-framework): A Chatbot and web framework.
+- Zhamao-Tiku-App-Android(private source): Used for practice questions before university course exams.
+
 ### What?
 
 My name **crazywhalecc** is originally from my self-hosted Minecraft server ID, my Chinese name sounds more like "鲸鱼", English is "Whale". So my ID is crazywhale, my English name is Jerry (sounds like my first name). cc is ChallengeCollapsar, or just meaningless.
