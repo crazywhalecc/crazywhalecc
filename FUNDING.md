@@ -35,3 +35,4 @@ Thank you to every friend who likes my project.
 | 钟鹏 | ￥ 20 |
 | Someone | :coffee: x 3 |
 | 姜先生 | ¥ 88 |
+| [y1713375484](https://github.com/y1713375484) | ¥ 30 |
