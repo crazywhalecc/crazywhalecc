@@ -6,14 +6,14 @@ If my project is helpful to you, you can sponsor me here and submit an issue or 
 
 ## 赞助方式 | Sponsorship Methods
 
-如果你是国际友人，请从 Buy Me a Coffe 平台赞助。如果你可以使用支付宝，可以给我的个人组织账户 `炸毛机器人` 转账进行捐助。
+如果你是国际友人，请从 ko-fi 平台赞助。如果你可以使用支付宝，可以给我的个人组织账户 `炸毛机器人` 转账进行捐助。
 
-If you are an international friend, please sponsor from the Buy Me a Coffee platform. 
-If you can use Alipay, you can transfer to my personal organization account `炸毛机器人` for donation.
+If you are an international friend, please sponsor from the ko-fi platform. 
+If you can use Alipay, you can transfer to my personal organization account `zhamao-robot` for donation.
 
-### [Buy Me a Coffee](https://www.buymeacoffee.com/crazywhalecc)
+### [ko-fi](https://ko-fi.com/crazywhalecc)
 
-<img src="https://github.com/crazywhalecc/crazywhalecc/assets/20330940/b3bfbed7-2fee-404d-a365-56a12fb5a64d" width = "180" height = "180" alt="bmac"><br>
+<img src="https://github.com/user-attachments/assets/ce0fa089-250d-47d0-b54a-6a7c0a0be0f1" width = "180" height = "180" alt="bmac"><br>
 
 ### 支付宝 | Alipay
 
@@ -36,3 +36,8 @@ Thank you to every friend who likes my project.
 | Someone | :coffee: x 3 |
 | 姜先生 | ¥ 88 |
 | [y1713375484](https://github.com/y1713375484) | ¥ 30 |
+| [kdkd](https://github.com/kdkd) | :coffee: x 20 |
+| [2colours](https://x.com/@2colours) | :coffee: x 1 |
+| [dunglas](https://x.com/dunglas) | :coffee: x 10 |
+| [Simon Hamp](https://x.com/simonhamp) | :coffee: x 50 |
+| [Sebastian Schlein](https://x.com/seb_sebsn) | :coffee: x 50 |
