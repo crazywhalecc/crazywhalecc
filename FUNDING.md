@@ -29,13 +29,13 @@ Thank you to every friend who likes my project.
 | ------- | ------ |
 | [sunxyw](https://github.com/sunxyw) | :coffee: x 1     | 
 | [Marcel Pociot](https://github.com/mpociot) | :coffee: x 10   |
-| Alipay - True | ￥ 16.66 |
+| Alipay - True | CNY ￥16.66 |
 | Someone | :coffee: x 10 |
 | [kdkd](https://github.com/kdkd) | :coffee: x 5 |
-| 钟鹏 | ￥ 20 |
+| 钟鹏 | CNY ￥20 |
 | Someone | :coffee: x 3 |
-| 姜先生 | ¥ 88 |
-| [y1713375484](https://github.com/y1713375484) | ¥ 30 |
+| 姜先生 | CNY ￥88 |
+| [y1713375484](https://github.com/y1713375484) | CNY ￥30 |
 | [kdkd](https://github.com/kdkd) | :coffee: x 20 |
 | [2colours](https://x.com/@2colours) | :coffee: x 1 |
 | [dunglas](https://x.com/dunglas) | :coffee: x 10 |
