@@ -6,14 +6,12 @@ If my project is helpful to you, you can sponsor me here and submit an issue or 
 
 ## 赞助方式 | Sponsorship Methods
 
-如果你是国际友人，请从 ko-fi 平台赞助。如果你可以使用支付宝，可以给我的个人组织账户 `炸毛机器人` 转账进行捐助。
+如果你是国际友人，请从 [GitHub Sponsor](https://github.com/sponsors/crazywhalecc) 赞助。如果你可以使用支付宝，可以给我的个人组织账户 `炸毛机器人` 转账进行捐助。
 
-If you are an international friend, please sponsor from the ko-fi platform. 
+If you are an international friend, please sponsor from GitHub Sponsor directly. 
 If you can use Alipay, you can transfer to my personal organization account `zhamao-robot` for donation.
 
-### [ko-fi](https://ko-fi.com/crazywhalecc)
-
-<img src="https://github.com/user-attachments/assets/ce0fa089-250d-47d0-b54a-6a7c0a0be0f1" width = "180" height = "180" alt="bmac"><br>
+My profile: [https://github.com/crazywhalecc](https://github.com/sponsors/crazywhalecc)
 
 ### 支付宝 | Alipay
 
