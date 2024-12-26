@@ -23,6 +23,14 @@ My profile: [https://github.com/crazywhalecc](https://github.com/sponsors/crazyw
 
 Thank you to every friend who likes my project.
 
+### :rocket: 特别赞助 | Special Sponsor
+
+<img src="https://github.com/user-attachments/assets/e2384160-29a5-45be-8180-8c6549a34497" width="100" />
+
+Special thanks to [Beyond Code](https://beyondco.de) for supporting me and my project!
+
+### 赞助列表 | Sponsor List
+
 | Sponsor | Amount |
 | ------- | ------ |
 | [sunxyw](https://github.com/sunxyw) | :coffee: x 1     | 
