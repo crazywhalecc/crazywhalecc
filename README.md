@@ -4,7 +4,7 @@ My name is Jerry Ma.
 
 🐘 A PHP and JavaScript programmer, cyber security engineer, CrazyBot(zhamao) Team maintainer.
 
-🎮 Playing Red Alert 2 (Team Player), Minecraft JE.
+🎮 Playing C&C Red Alert 2 (Team Player), Minecraft JE.
 
 💬 I won't exclude any other languages from contacting me, Chinese, English, etc.
 
