@@ -2,7 +2,7 @@
 
 - 👋 I'm Jerry (Jingyu Ma).
 - ⚡ Job: I'm a pentester, open-source and developing is my hobby.
-- 🎮 Game: RA2, Minecraft and various indie games.
+- 🎮 Game: RA2, Minecraft, Cities skylilnes 2 and various indie games.
 - 💬 Language: Chinese, English.
 - 👨‍💻 Developing: StaticPHP project, pentest tools and websites.
 - 🐰 Pet: About 15 totoro (Chinchilla).
